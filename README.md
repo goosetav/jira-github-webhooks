@@ -20,11 +20,14 @@ Rather than going through each repo and setting them up manually, this script au
   * a ruby environment
 
 ### setup
+```
 bundle install
+```
 
 ### running
+```
 ./webhook.rb
-
+```
 
 ## Contributing
 see [simplified Github workflow](http://scottchacon.com/2011/08/31/github-flow.html)
